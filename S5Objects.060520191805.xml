@@ -1,0 +1,21 @@
+<entry name="h-eNB-S1C-BYCHGR78">
+  <ip-netmask>172.18.32.0/24</ip-netmask>
+  <description>eNB Suarabaya Region</description>
+  <tag>
+    <member>RAN-BLACK</member>
+  </tag>
+</entry>
+<entry name="h-eNB-S1C-BCHO6GR34">
+  <ip-netmask>172.18.31.0/24</ip-netmask>
+  <description>eNB Suarabaya Region</description>
+  <tag>
+    <member>RAN-BLACK</member>
+  </tag>
+</entry>
+<entry name="h-eNB-S1C-BYDO4VG76">
+  <ip-netmask>172.18.30.0/24</ip-netmask>
+  <description>eNB Suarabaya Region</description>
+  <tag>
+    <member>RAN-BLACK</member>
+  </tag>
+</entry>
